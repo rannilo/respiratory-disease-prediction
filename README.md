@@ -16,3 +16,5 @@ Experiments on the deep learning model (CNN) were as follows:
 - Using all features to train the model
 - Using class weights to counter dataset unbalancedness
 - Using a novel data augmentation algorithm
+
+![Poster and high level overview of the code and model results](https://ibb.co/KF2hyYT)
