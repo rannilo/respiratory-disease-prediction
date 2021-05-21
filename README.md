@@ -26,3 +26,5 @@ Experiments on the deep learning model (CNN) were as follows:
 # [Thesis](https://docdro.id/bATDzgO)
 
 ![Poster and high level overview of the code and model results](https://i.ibb.co/5xGTfbx/JPG-richard-annilo-poster-v2.jpg)
+
+![The actual thesis can be found here](https://docdro.id/bATDzgO)
